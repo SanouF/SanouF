@@ -1,13 +1,8 @@
-- 👋 Hi, I’m @SanouF
-- 👀 I’m interested in doing a summer internship in the digital area to learn more about softwares and start my career with a company that respects the values of integrity.
-- 🌱 I’m currently learning Computer science and Business Administration Management in two schools: the engineering school "Centrale Nantes" and the business school "Audencia Business School" in Nantes.
-- 💞️ I’m looking to collaborate on a project to learn and improve my skills.
-- 📫 How to reach me:
-  - by email: sanou.faye@audencia.com
-  - by phone: +33652209692
-  - by linkedIn message : https://www.linkedin.com/in/sanou-faye/
-
-<!---
-SanouF/SanouF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Sanou Faye
+- 👀 I’m currently seeking a 6-month internship in the data field to deepen my knowledge of data analytics, software tools, and collaborative projects while starting my career in the football industry.
+- 🌱 I’m studying Computer Science and Business Administration Management through a dual-degree program at Centrale Nantes and Audencia Business School, focusing on data analytics, machine learning, and strategic decision-making.
+- 💻 I’ve developed skills in Python, SQL, Tableau, Power BI, and other data analysis tools, and I’m passionate about turning data into actionable insights.
+- 🌍 International experience: Studied and worked in France, Portugal, South Africa, Morocco, and Canada.
+📫 How to reach me:
+Email: sanou.faye@audencia.com
+LinkedIn: https://www.linkedin.com/in/sanou-faye/
